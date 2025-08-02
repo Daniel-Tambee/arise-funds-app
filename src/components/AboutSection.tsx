@@ -29,7 +29,7 @@ export default function AboutSection() {
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Strategy</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  We leverage partnerships, capital flows, and data insights to build an ecosystem where students don't just study—they succeed.
+                  We leverage partnerships, capital flows, and data insights to build an ecosystem where students don&apos;t just study—they succeed.
                 </p>
               </div>
             </div>
